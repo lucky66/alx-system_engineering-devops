@@ -1,0 +1,2 @@
+#!/bin/bahs
+chmod ug+x,o+r hello
